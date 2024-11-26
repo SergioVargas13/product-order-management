@@ -54,4 +54,8 @@ Diseñar e implementar una aplicación frontend en Vue.js que gestione un catál
 
 ## Despliegue (Opcional)
 
-La aplicación se encuentra desplegada en vercel y se puede acceder atraves del siguiente link: https://product-order-management-umber.vercel.app/
+La aplicación se encuentra desplegada en Vercel y se puede acceder a través del siguiente link: [https://product-order-management-umber.vercel.app/]
+
+## Portafolio
+
+Puedes acceder a mi portafolio personal a través del siguiente enlace: [https://portfolio-livid-rho-27.vercel.app/] Actualmente, Hay algunas partes están en construcción y las iré agregando gradualmente.
