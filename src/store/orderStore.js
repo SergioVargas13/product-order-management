@@ -6,7 +6,7 @@ export function orderStore() {
 
   const fetchOrders = async () => {
     try {
-      const response = await fetch("/orders.json");
+      const response = await fetch("/json/orders.json");
       
       if (!response.ok) {
         console.error("Failed to fetch orders: ", response.statusText);

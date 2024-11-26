@@ -6,7 +6,7 @@ export function productStore() {
 
   const fetchProducts = async () => {
     try {
-      const response = await fetch("/products.json");
+      const response = await fetch("/json/products.json");
 
       if (!response.ok) {
         console.error("Failed to fetch products: ", response.statusText);
