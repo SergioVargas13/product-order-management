@@ -58,4 +58,4 @@ La aplicación se encuentra desplegada en Vercel y se puede acceder a través de
 
 ## Portafolio
 
-Puedes acceder a mi portafolio personal a través del siguiente enlace: [https://portfolio-livid-rho-27.vercel.app/] Actualmente, Hay algunas partes están en construcción y las iré agregando gradualmente.
+Puedes acceder a mi portafolio personal a través del siguiente enlace: [https://portfolio-livid-rho-27.vercel.app/] Actualmente, algunas partes están en construcción y las iré agregando gradualmente.
