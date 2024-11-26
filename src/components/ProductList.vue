@@ -32,8 +32,8 @@ const addOrUpdateProduct = (product) => {
   showAddProductForm.value = true;
 };
 
-const saveOrUpdateProduct = async (product) => { 
-  await (product.id) ? updateProduct : addProduct;
+const saveOrUpdateProduct = async (product) => {
+  await (product.id) ? updateProduct(product) : addProduct(product);
   resetForm();
 };
 
